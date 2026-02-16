@@ -3,7 +3,6 @@
     margin: 0;
 }
 
-
 .main {
     display: flex;
 }
@@ -17,28 +16,19 @@
     width: 64%;
 }
 
-
 .right {
     width: 482px;
 }
 
-
-h1 {
-    text-align: center;
-}
-
-
 /* .textarea {
     width: 63%;
 } */
-
 
 input {
     width: 97%;
     height: 70px;
     text-align: right;
 }
-
 
 .button {
     font-size: 19px;
@@ -47,16 +37,15 @@ input {
     margin-top: 5px;
 }
 
-
 #deleteBtn {
     justify-self: center;
 }
-
 
 #historyDiv {
     text-align: end;
     overflow-y: scroll;
     margin-right: 33px;
     font-size: 20px;
-    height: 572px;
+    height: 540px;
+
 }
