@@ -42,7 +42,9 @@ input {
 }
 
 .deletebtn{
-    
+    height: 27px;
+    width: 80px;
+    font-size: 15px;
 }
 
 #historyDiv {
@@ -53,4 +55,5 @@ input {
     height: 540px;
 
 }
+
 
