@@ -41,6 +41,10 @@ input {
     justify-self: center;
 }
 
+.deletebtn{
+    
+}
+
 #historyDiv {
     text-align: end;
     overflow-y: scroll;
@@ -49,3 +53,4 @@ input {
     height: 540px;
 
 }
+
